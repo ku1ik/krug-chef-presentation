@@ -1,0 +1,31 @@
+body {
+  font-family: 'Ubuntu';
+}
+
+pre, pre code, pre.sh_sourceCode .sh_string {
+  font-family: 'Ubuntu Mono';
+}
+
+li p {
+  margin-bottom: 25px;
+}
+
+.subsection h1 {
+  background: #000;
+}
+
+em {
+  font-style: normal;
+  /* color: #43C6DB; */
+  color: #37a4b5;
+  /* color: #3B9C9C; */
+}
+
+strong {
+  color: #9B111E;
+  font-weight: normal;
+}
+
+span.shadow {
+  color: #ddd;
+}
