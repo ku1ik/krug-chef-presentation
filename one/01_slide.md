@@ -480,7 +480,7 @@ settings
 
     # See the list of configured servers:
 
-    $  cap -T
+    $ cap -T
 
 
     # Make the changes happen on the server:
